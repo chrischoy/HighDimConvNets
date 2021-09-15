@@ -1,0 +1,22 @@
+h5py
+numpy
+# pytorch  # for anaconda, please refer to pytorch.org for installation
+scipy>=1.4.1
+matplotlib
+open3d-python
+# to visualize it, you need tensorflow, but it doesn't have to be in the same virual environment :)
+tensorboardX
+MinkowskiEngine
+future-fstrings
+easydict
+joblib
+
+scikit-learn
+
+# For scannet segmentation
+pandas
+plyfile
+
+# For 2d data generation
+opencv-contrib-python==3.4.2.17
+tqdm

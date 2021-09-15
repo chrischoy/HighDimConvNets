@@ -1,0 +1,16 @@
+# Temp files
+__pycache__
+*.swp
+*.swo
+*.orig
+.idea
+outputs/
+exp/
+*.pyc
+.vscode
+.ipynb_checkpoints
+visualize/
+local_scripts/
+figures/
+.vim/
+*.pth
